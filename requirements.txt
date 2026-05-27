@@ -1,0 +1,6 @@
+streamlit
+audio-recorder-streamlit
+groq
+googlesearch-python
+beautifulsoup4
+gTTS
